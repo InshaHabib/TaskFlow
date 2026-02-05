@@ -26,7 +26,7 @@ TaskFlow is a fictional task management web page designed to help users organize
 The web page is fully responsive and optimized for mobile, tablet, and desktop devices.
 
 ## 🚀 Live Demo
-👉 https://inshahabib.github.io/Website_for_Task_App
+👉 https://inshahabib.github.io/TaskFlow
 
 ## 📂 Project Purpose
 This project was developed for learning and practicing front-end development concepts, including modern layout design, responsiveness, and interactive UI elements.
